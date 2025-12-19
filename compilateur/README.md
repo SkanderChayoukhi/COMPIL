@@ -4,7 +4,7 @@
 
 **Skander CHAYOUKHI**
 
-**Siwar Ben Garsallah**
+**Siwar Ben Gharsallah**
 
 **⚠️ Utilisation d'outils d'IA générative :**
 
