@@ -1,0 +1,4 @@
+let id = fun x -> x in
+let test1 = id 0 in
+let test2 = id id in
+0

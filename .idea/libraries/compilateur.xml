@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="compilateur">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/compilateur/antlr-runtime-4.13.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/compilateur/Unify.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

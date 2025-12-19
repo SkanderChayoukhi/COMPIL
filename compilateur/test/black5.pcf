@@ -1,0 +1,2 @@
+let loop = fix f fun x -> f x in
+loop 0

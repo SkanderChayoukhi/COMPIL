@@ -1,0 +1,2 @@
+let f = fun x -> ifz x then 22 else x in f 11
+

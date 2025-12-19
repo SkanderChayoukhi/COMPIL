@@ -1,0 +1,2 @@
+let count = fix f fun n -> ifz n then 0 else f (n - 1)
+in count 2

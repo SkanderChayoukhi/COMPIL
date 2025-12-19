@@ -1,0 +1,1 @@
+ifz 0 then 11 else (fun x -> x)

@@ -1,0 +1,7 @@
+let f = fun x ->
+  ifz x then
+    fun y -> y
+  else
+    fun z -> 1
+in f 0 16
+

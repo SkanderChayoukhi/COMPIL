@@ -1,0 +1,1 @@
+let cond = ifz 4 - 2 then 3 - 2 * 2 else 1 in 2 / cond
